@@ -9,7 +9,7 @@ const config = {
      * Creator or developer's name
      * @type {string}
      */
-    creator: "Nperma",
+    creator: "baggiesList",
 
     /**
      * GitHub repository link for the project
@@ -53,7 +53,7 @@ const config = {
      * List of owner gamertags with full permissions
      * @type {string[]}
      */
-    owners: ["NpermaDev"],
+    owners: ["baggiesList"],
 
     /**
      * List of gamertags banned from the server
